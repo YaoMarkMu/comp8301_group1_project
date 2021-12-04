@@ -4,7 +4,7 @@ We build this project based on "A Research-oriented Federated Learning Library a
 
 This project is build by MU Yao, CHEN runjian, XU Peng, and JIN sheng.
 
-The contribution of evey group menber is qual.
+The contribution of evey group member is qual.
 
 
 ## Installation
