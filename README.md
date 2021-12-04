@@ -1,7 +1,9 @@
 # Project of Group 1, COMP8301, The University of Hong KONG:  Federated Graph Neural Networks
 
 We build this project based on "A Research-oriented Federated Learning Library and Benchmark Platform for Graph Neural Networks"
+
 This project is build by MU Yao, CHEN runjian, XU Peng, and JIN sheng.
+
 The contribution of evey group menber is qual.
 
 
